@@ -1,0 +1,5 @@
+C:\Users\tcazenave\Desktop\Discrete Optimization\tsp\TravelingSalesman\bin\Debug\TravelingSalesman.exe
+C:\Users\tcazenave\Desktop\Discrete Optimization\tsp\TravelingSalesman\bin\Debug\TravelingSalesman.pdb
+C:\Users\tcazenave\Desktop\Discrete Optimization\tsp\TravelingSalesman\obj\x86\Debug\TravelingSalesman.csprojResolveAssemblyReference.cache
+C:\Users\tcazenave\Desktop\Discrete Optimization\tsp\TravelingSalesman\obj\x86\Debug\TravelingSalesman.exe
+C:\Users\tcazenave\Desktop\Discrete Optimization\tsp\TravelingSalesman\obj\x86\Debug\TravelingSalesman.pdb

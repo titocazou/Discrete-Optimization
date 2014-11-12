@@ -1,0 +1,1 @@
+using System.Collections.Generic;namespace TravelingSalesman{	/// <summary>    /// An interface for a tsp problem solver	/// </summary>	public interface ISolver    {        SolutionResult Solve(IEnumerable<Node> items);    }}
